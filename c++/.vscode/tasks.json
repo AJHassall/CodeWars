@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build hello world",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-o",
+                "helloworld",
+                "-std=c++17",
+                "find_the_odd_int.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "run",
+            "type" :"process",
+            "command":"helloworld.exe",
+        }
+    ]
+}
