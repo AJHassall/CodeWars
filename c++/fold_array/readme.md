@@ -21,3 +21,5 @@ Fold 2-times:
 <p>Have fun coding it and please don't forget to vote and rank this kata! :-) </p>
 <p>I have created other katas. Have a look if you like coding and challenges.</p>
 </div>
+
+<p>https://www.codewars.com/kata/57ea70aa5500adfe8a000110</p>
